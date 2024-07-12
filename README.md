@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on medical project research with machine learning at IN2LAB.<br>
+🔭 I’m currently working with machine learning projects at IN2LAB.<br>
 
 
 ## 🌐 Socials:
