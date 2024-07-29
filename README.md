@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working with machine learning projects at IN2LAB.<br>
 
+## 🙋‍♂️ My Website:
+I've developed my own website, in which you can find several projects done by me.   
+[My Personal Website](https://portfolio-jader-5b3e436f79ca.herokuapp.com/)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jader-caro) 
