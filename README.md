@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with machine learning projects at IN2LAB.<br>
+🔭 I’m currently working with machine learning projects.<br>
 
 ## 🙋‍♂️ My Website:
 I've developed my own website, in which you can find several projects done by me.   
